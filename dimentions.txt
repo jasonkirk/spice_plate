@@ -1,0 +1,23 @@
+rectangalar magnet	25 6
+spice lid	49.75
+spice jar width	51.17
+
+24.925
+
+25 x 6
+
+circle
+49.3 to 49.5
+
+rectangle magnet
+25.04 by 5.58
+
+55 mm between middle of bottles hor
+65 mm ver
+
+45.04,20
+
+10,10 by 35.04,15.58
+
+150.8201
+
