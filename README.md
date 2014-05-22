@@ -6,5 +6,9 @@ So laser cutting out a wood plate that attaches to the fridge by magnets and hol
 
 Log:
 
+
+5/22/2014
+Hole sizes might be 49.50 and 50.  Need to check.
+
 5/22/2014
 If doing two layers, 49.50 for diameter for first layer hole and 49.85 for second layer hole might be the best.
